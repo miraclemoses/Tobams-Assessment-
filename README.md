@@ -37,7 +37,7 @@ The app consists of three screens, which include: the menu, dish screen and cart
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/peter-abah/tobams-assessment.git
+git clone https://github.com/miraclemoses/Tobams-Assessment-.git
 cd tobams-assessment
 npm install
 ```
